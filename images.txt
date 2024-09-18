@@ -9,3 +9,13 @@ gcc
 alpine
 python
 ubuntu
+
+iyuucn/iyuuplus-dev
+estrellaxd/auto_bangumi
+homeassistant/home-assistant
+--platform=linux/x86-64 linuxserver/emby
+jxxghp/moviepilot
+linuxserver/qbittorrent
+allanpk716/chinesesubfinder
+deluan/navidrome
+portainer/portainer-ce
