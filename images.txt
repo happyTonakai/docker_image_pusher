@@ -16,6 +16,7 @@ estrellaxd/auto_bangumi
 homeassistant/home-assistant
 --platform=linux/x86-64 linuxserver/emby
 jxxghp/moviepilot
+jxxghp/moviepilot-v2
 linuxserver/qbittorrent
 allanpk716/chinesesubfinder
 deluan/navidrome
