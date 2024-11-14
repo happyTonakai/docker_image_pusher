@@ -21,3 +21,6 @@ linuxserver/qbittorrent
 allanpk716/chinesesubfinder
 deluan/navidrome
 portainer/portainer-ce
+
+ghcr.io/dgtlmoon/changedetection.io
+dgtlmoon/sockpuppetbrowser
