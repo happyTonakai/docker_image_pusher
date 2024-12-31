@@ -6,7 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # immich doesn't have a latest tag
-ghcr.io/immich-app/immich-server:v1.100.1  
+ghcr.io/immich-app/immich-server:v1.100.0  
 ghcr.io/immich-app/immich-machine-learning:release
 # vpngates5/immich-machine-learning-cn-clip-cpu
 docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
