@@ -6,7 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # immich doesn't have a latest tag
-ghcr.io/immich-app/immich-server:release  
+ghcr.io/immich-app/immich-server:v1.100.1  
 ghcr.io/immich-app/immich-machine-learning:release
 # vpngates5/immich-machine-learning-cn-clip-cpu
 docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
@@ -16,10 +16,6 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab
 --platform=linux/amd64 tickstep/aliyunpan-sync:v0.3.4
 
 gcc
-alpine
-python
-ubuntu
-curlimages/curl
 
 iyuucn/iyuuplus-dev
 estrellaxd/auto_bangumi
