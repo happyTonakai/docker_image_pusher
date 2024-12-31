@@ -25,6 +25,7 @@ binwiederhier/ntfy
 finab/bark-server
 easychen/checkchan
 vaultwarden/server
+tickstep/aliyunpan-sync
 
 ghcr.io/immich-app/immich-server
 vpngates5/immich-machine-learning-cn-clip-cpu
