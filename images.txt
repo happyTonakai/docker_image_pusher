@@ -14,6 +14,8 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab
 # LLM
 justsong/one-api
 ghcr.io/open-webui/open-webui:main
+docker.io/mysql:8.2.0
+docker.io/redis:latest
 
 # aliyunpan-sync doesn't have a latest tag either
 --platform=linux/amd64 tickstep/aliyunpan-sync:v0.3.4
