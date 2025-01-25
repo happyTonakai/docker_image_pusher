@@ -5,17 +5,18 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+# LLM
+xiangfa/talk-with-gemini
+justsong/one-api
+ghcr.io/open-webui/open-webui:main
+docker.io/mysql:8.2.0
+docker.io/redis:latest
+
 # immich doesn't have a latest tag
 ghcr.io/immich-app/immich-server:v1.125.1  
 ghcr.io/immich-app/immich-machine-learning:release
 docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
-
-# LLM
-justsong/one-api
-ghcr.io/open-webui/open-webui:main
-docker.io/mysql:8.2.0
-docker.io/redis:latest
 
 # aliyunpan-sync doesn't have a latest tag either
 --platform=linux/amd64 tickstep/aliyunpan-sync:v0.3.4
