@@ -6,11 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # LLM
-xiangfa/talk-with-gemini
 justsong/one-api
-ghcr.io/open-webui/open-webui:main
-docker.io/mysql:8.2.0
-docker.io/redis:latest
 
 # immich doesn't have a latest tag
 ghcr.io/immich-app/immich-server:v1.126.1  
