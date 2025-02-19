@@ -1,9 +1,11 @@
-name: Docker
+name: Push
 
 on:
   workflow_dispatch:
   push:
     branches: [ main ]
+    paths:
+      - 'onetime_images.txt'
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
