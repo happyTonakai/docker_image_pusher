@@ -5,14 +5,16 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+rustdesk/rustdesk-server-s6
+
 # LLM
 justsong/one-api
 
 # immich doesn't have a latest tag
-ghcr.io/immich-app/immich-server:v1.126.1  
+ghcr.io/immich-app/immich-server:release 
 ghcr.io/immich-app/immich-machine-learning:release
-docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
-docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
+docker.io/redis:6.2-alpine@sha256:148bb5411c184abd288d9aaed139c98123eeb8824c5d3fce03cf721db58066d8
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:739cdd626151ff1f796dc95a6591b55a714f341c737e27f045019ceabf8e8c52
 
 ghcr.io/miguelangel-nubla/immich-upload-optimizer:latest
 
@@ -23,7 +25,6 @@ iyuucn/iyuuplus-dev
 estrellaxd/auto_bangumi
 homeassistant/home-assistant
 --platform=linux/x86-64 linuxserver/emby
-jxxghp/moviepilot
 jxxghp/moviepilot-v2
 linuxserver/qbittorrent
 allanpk716/chinesesubfinder
@@ -31,5 +32,4 @@ deluan/navidrome
 portainer/portainer-ce
 binwiederhier/ntfy
 finab/bark-server
-easychen/checkchan
 vaultwarden/server
