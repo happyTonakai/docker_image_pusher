@@ -33,3 +33,4 @@ portainer/portainer-ce
 binwiederhier/ntfy
 finab/bark-server
 vaultwarden/server
+dockurr/macos
