@@ -1,1 +1,1 @@
-byaidu/pdf2zh
+ollama/ollama
