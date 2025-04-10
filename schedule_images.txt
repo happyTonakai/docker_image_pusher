@@ -29,6 +29,7 @@ jxxghp/moviepilot-v2
 linuxserver/qbittorrent
 allanpk716/chinesesubfinder
 deluan/navidrome
+xhongc/music_tag_web
 portainer/portainer-ce
 binwiederhier/ntfy
 finab/bark-server
