@@ -35,3 +35,4 @@ binwiederhier/ntfy
 finab/bark-server
 vaultwarden/server
 dockurr/macos
+yaotutu/folder2podcast
