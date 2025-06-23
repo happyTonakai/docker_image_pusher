@@ -1,1 +1,1 @@
-python:alpine
+--platform=linux/arm64 python:alpine
