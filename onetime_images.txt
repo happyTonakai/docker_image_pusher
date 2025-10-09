@@ -1,1 +1,1 @@
-nvidia/cuda:12.2.0-devel-ubuntu22.04
+rabbitmq:4.1.4-management
